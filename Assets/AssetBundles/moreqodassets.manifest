@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 857666210
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a45af3abbd3871021f3e69ff876e846
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87b0bba9d18ffc75f60c50b410bd4a4e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6a45af3abbd3871021f3e69ff876e846
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimpleCircleShader.shader
+- Assets/CircleShaderPixel.shader
+- Assets/EllipticShader.shader
+- Assets/TestShader.shader
+- Assets/CircleShader.shader
+Dependencies: []
